@@ -12,7 +12,7 @@
 
 ## Proyectos Destacados 🌟
 
-- **Telepromted:** Agiliza la experiencia de lectura.
+- **Telepromter:** Agiliza la experiencia de lectura.
 
 - **TODO LIST:** Organiza, prioriza y simplifica tareas diarias.
 
