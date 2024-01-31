@@ -1,6 +1,6 @@
 # Bienvenido a mi Perfil de GitHub 👋
 
-¡Hola! Soy Josue, un apasionado desarrollador por la programación y desarrollo web.
+¡Hola! Soy Josue, un apasionado por la programación y desarrollo web.
 
 ## Habilidades 🚀
 
