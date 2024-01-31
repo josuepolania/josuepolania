@@ -27,7 +27,9 @@ Me apasiona la innovación y el desarrollo tecnológico, tanto en el backend com
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josuepolania&" alt="josuepolania" /></p>
 
-Gracias por visitar mi perfil. ¡Espero que encuentres interesantes mis proyectos! 😊
+
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 <br><br>
+
+Gracias por visitar mi perfil. ¡Espero que encuentres interesantes mis proyectos! 😊
